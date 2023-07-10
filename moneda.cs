@@ -25,7 +25,7 @@ public class Bpi
         public double rate_float { get; set; }
     }
 
-    public class Root
+    public class Moneda
     {
         public Time time { get; set; }
         public string disclaimer { get; set; }
