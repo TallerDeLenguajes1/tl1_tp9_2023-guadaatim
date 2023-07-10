@@ -60,6 +60,7 @@ internal class Program
                                     break;
                                 default:
                                     Console.WriteLine("La moneda ingresada no se encuentra disponible");
+                                    break;
                             }
                         }
                         
